@@ -1,0 +1,9 @@
+The code is released under the GNU General Public License.
+
+This is the firmware and PCB for the SerialGLCD board by Kristian Lauszus, TKJ Electronics 2012.
+
+For it to work move ks0108_Arduino.h into the glcd library folder like so: Arduino/libraries/glcd/config/ks0108_Arduino.h
+Also remember to solder the solderjumper according to your Pinout (see http://www.arduino.cc/playground/Code/GLCDks0108).
+The glcd library can be found at the following link: http://code.google.com/p/glcd-arduino/
+
+For more information see my blog at http://blog.tkjelectronics.dk/ or send me an email at kristianl at tkjelectronics dot dk.
